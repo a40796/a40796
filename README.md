@@ -15,8 +15,8 @@ Hi I’m Albert! I change my careers to be a web designer. I have a lot of enthu
 - JQUERY
 
 ## 💡 Projects
-- [HouseJC](https://a40796.github.io/houseJC/html/index.html/)
-- [Succulents_Plant](https://tibamef2e.com/ted102/project/g2/index.html/)
+- [HouseJC](https://a40796.github.io/houseJC/html/index.html)
+- [Succulents_Plant](https://tibamef2e.com/ted102/project/g2/index.html)
 
 ## 🔗 Get in touch
 - Mail:d0191512@gmail.com
