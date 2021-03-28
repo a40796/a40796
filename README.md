@@ -2,10 +2,10 @@
 
 Hi I’m Albert
 
-Hi I’m Albert! I change my careers to be a web designer. I have a lot of enthusiasm for design and travel. I believe improving little by lit
+Hi I’m Albert! I change my careers to be a web designer. I have a lot of enthusiasm for design ,coding and travel. I believe improving little by lit
 
 
-### 📚 Langues and Frameworks
+### 📚 Langues and Framework
 - HTML5
 - CSS3, SCSS, SASS
 - JavaScript(ES6)
