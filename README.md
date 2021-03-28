@@ -1,10 +1,14 @@
-- 👋 Hi, I’m albert huang
-- 👀 I’m interested in design and table tennis .
-- 🌱 I’m currently learning php and MYSQL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi I’m Albert! 
+I change my careers to be a web designer. I have a lot of enthusiasm for design 、table tennis and travel. I believe improving little by lit
 
-<!---
-a40796/a40796 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Front End Skill
+1.javascript
+2.HTML5
+3.CSS
+4.SASS
+5.PHP
+6.MYSQL
+7.GIT
+8.JQUERY
+9.Vue.js
+10.Ajax
