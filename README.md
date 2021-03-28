@@ -1,4 +1,4 @@
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />
 
 Hi I’m Albert
 
@@ -19,5 +19,5 @@ Hi I’m Albert! I change my careers to be a web designer. I have a lot of enthu
 - [Succulents_Plant](https://tibamef2e.com/ted102/project/g2/index.html/)
 
 ## 🔗 Get in touch
-- Mail:d0191512@gmail.com/
+- Mail:d0191512@gmail.com
 
