@@ -2,10 +2,9 @@
 
 Hi I’m Albert
 
-Hi I’m Albert! I change my careers to be a web designer. I have a lot of enthusiasm for design 、table tennis and travel. I believe improving little by lit
+Hi I’m Albert.I have a lot of enthusiasm for design and coding.And I also love traveling to different place.Every time  when I get back from travel,makes me have a lot idea. I though it’s the same feel when I doing front-end .You have a idea,and you do it. And it will make you have another idea! I though it’s the interesting part of front-end.And that’s why I love it!
 
-
-### 📚 Langues and Frameworks
+### 📚 Langues and Framework
 - HTML5
 - CSS3, SCSS, SASS
 - JavaScript(ES6)
