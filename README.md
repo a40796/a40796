@@ -8,6 +8,7 @@ Hi I’m Albert.I have a lot of enthusiasm for design and coding.And I also love
 - HTML5
 - CSS3, SCSS, SASS
 - JavaScript(ES6)
+- React
 - Vue.js
 - PHP
 - MYSQL
