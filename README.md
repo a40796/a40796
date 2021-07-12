@@ -15,7 +15,8 @@ Hi I’m Albert.I have a lot of enthusiasm for design and coding.And I also love
 - JQUERY
 
 ## 💡 Projects
-- [HouseJC of personal portfolio ](https://a40796.github.io/houseJC/html/index.html)
+- [HOUSE JC of personal portfolio - Dynamic Webpage - React ](https://a40796.github.io/HOUSE-JC/#/)
+- [HouseJC of personal portfolio - Static Webpage ](https://a40796.github.io/houseJC/html/index.html)
 - [Succulents_Plant of group portfolio ](https://tibamef2e.com/ted102/project/g2/index.html)
 
 ## 🔗 Get in touch
