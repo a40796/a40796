@@ -17,7 +17,6 @@ Hi I’m Albert.I have a lot of enthusiasm for design and coding.And I also love
 ## 💡 Projects
 - [HOUSE JC - personal portfolio - Dynamic Webpage - React ](https://a40796.github.io/HOUSE-JC/#/)
 - [HOUSE JC - personal portfolio - Static Webpage - Js](https://a40796.github.io/houseJC/html/index.html)
-- [Succulents_Plant - group portfolio ](https://tibamef2e.com/ted102/project/g2/index.html)
 
 ## 🔗 Get in touch
 - Mail:d0191512@gmail.com
